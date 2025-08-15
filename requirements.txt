@@ -1,0 +1,10 @@
+# GUI
+tk  # Tkinter (only needed if packaging on some systems)
+tkcalendar
+
+# Database
+sqlite3  # Standard library, no need to install unless explicitly packaging
+
+# Packaging to .exe
+pyinstaller
+
